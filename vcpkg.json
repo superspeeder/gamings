@@ -1,0 +1,26 @@
+{
+  "dependencies": [
+    {
+      "name": "glm"
+    },
+    {
+      "name": "glfw3"
+    },
+    {
+      "name": "spdlog"
+    },
+    {
+      "name": "stb"
+    },
+    {
+      "name": "freetype"
+    },
+    {
+      "name": "msdfgen",
+      "default-features": false,
+      "features": [
+        "extensions"
+      ]
+    }
+  ]
+}

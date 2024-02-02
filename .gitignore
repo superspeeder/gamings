@@ -1,0 +1,6 @@
+.cache/
+build/
+cmake-build-*/
+run/logs/
+*.log
+compile_commands.json
